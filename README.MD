@@ -61,4 +61,8 @@ https://oxylabs.io/blog/curl-post-requests
 
 https://www.geeksforgeeks.org/rest-api-introduction/
 
+https://www.freecodecamp.org/news/apis-for-beginners/
+
+https://docs.google.com/presentation/d/1OgcHNZGC8S5w9IKcBeNDrI_OvRODjKMQ2_gD5GFYkz4/edit?usp=sharing
+
 
